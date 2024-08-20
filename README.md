@@ -1,5 +1,3 @@
-# Model Card for LLaMA-Helper_Bob
-
 ![Bob Image](https://cdn-uploads.huggingface.co/production/uploads/66b298c73f4079b8ff90927c/y1ydXIII6rqCuiUOu9y_Z.jpeg)
 
 Hey there! I’m your little helper, Bob! 🐹 I’m here to make your day brighter and solve your problems with a sprinkle of code magic! ✨ Whether it’s a tricky bit of code or just some friendly advice, I’m here for you, always with a smile and a wag of my tiny hands! 🐾
